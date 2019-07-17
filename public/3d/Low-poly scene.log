@@ -1,0 +1,2218 @@
+Exporter version: 6.1.1, Blender version: 2.80 (sub 74)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\laragon\www\vue3d\public\3d\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Circle
+		processing begun of material:  Material.037
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  90
+	processing begun of mesh:  Sphere
+		processing begun of material:  Material.036
+		num positions      :  2679
+		num normals        :  2679
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2964
+	processing begun of mesh:  Plane.005
+		processing begun of material:  Material.015
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  Cylinder.047
+		processing begun of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.046
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.045
+		processing begun of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.044
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.043
+		processing begun of material:  Material.011
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.042
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.041
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Icosphere.038
+		processing begun of material:  Material.017
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.034
+		processing begun of material:  Material.017
+		registered as also a user of material:  Material.017
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.030
+		processing begun of material:  Material.017
+		registered as also a user of material:  Material.017
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Cube.090
+		processing begun of material:  Material.033
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.089
+		processing begun of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.088
+		processing begun of material:  Material.030
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.087
+		processing begun of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.086
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.085
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.084
+		processing begun of material:  Material.016
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Plane.004
+		processing begun of material:  Material.032
+		num positions      :  773
+		num normals        :  773
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1068
+	processing begun of mesh:  Plane.003
+		processing begun of material:  Material.032
+		registered as also a user of material:  Material.032
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.083
+		processing begun of material:  Material.030
+		registered as also a user of material:  Material.030
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.082
+		processing begun of material:  Material.030
+		registered as also a user of material:  Material.030
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.081
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.080
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.079
+		processing begun of material:  Material.034
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.078
+		processing begun of material:  Material.028
+		processing begun of material:  Material.029
+		processing begun of multimaterial:  Low_poly_scene.Multimaterial#0
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.077
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.076
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.075
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.074
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.073
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.072
+		processing begun of material:  Material.026
+		processing begun of material:  Material.027
+		processing begun of material:  Material.031
+		processing begun of multimaterial:  Low_poly_scene.Multimaterial#1
+		num positions      :  873
+		num normals        :  873
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1512
+	processing begun of mesh:  Cylinder.040
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.039
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.038
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.037
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.036
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Icosphere.042
+		processing begun of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.032
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.029
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Cylinder.035
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.034
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.033
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.032
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.031
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.030
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.029
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.028
+		processing begun of material:  Material.010
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.027
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.026
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.025
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.024
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.023
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.022
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.021
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.020
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.019
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.018
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.017
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.016
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.015
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.014
+		processing begun of material:  Material.024
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.013
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.012
+		processing begun of material:  Material.022
+		registered as also a user of material:  Material.022
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.011
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.010
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.009
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.008
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.007
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.006
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.005
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.004
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.003
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.002
+		processing begun of material:  Material.024
+		registered as also a user of material:  Material.024
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder.001
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cylinder
+		processing begun of material:  Material.023
+		registered as also a user of material:  Material.023
+		num positions      :  704
+		num normals        :  704
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cube
+		processing begun of material:  Material.006
+		num positions      :  55
+		num normals        :  55
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Material.005
+		num positions      :  57
+		num normals        :  57
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Material.020
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Material.007
+		num positions      :  153
+		num normals        :  153
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Material.008
+		num positions      :  108
+		num normals        :  108
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.005
+		WARNING: No materials have been assigned: 
+		num positions      :  59
+		num normals        :  59
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Material.019
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		WARNING: No materials have been assigned: 
+		num positions      :  56
+		num normals        :  56
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  82
+		num normals        :  82
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Material.007
+		registered as also a user of material:  Material.007
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Material.007
+		registered as also a user of material:  Material.007
+		num positions      :  80
+		num normals        :  80
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.012
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.015
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.017
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.018
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.019
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020
+		WARNING: No materials have been assigned: 
+		num positions      :  59
+		num normals        :  59
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.021
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.022
+		processing begun of material:  Material.005
+		registered as also a user of material:  Material.005
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.023
+		processing begun of material:  Material.007
+		registered as also a user of material:  Material.007
+		num positions      :  34
+		num normals        :  34
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.024
+		processing begun of material:  Material.005
+		registered as also a user of material:  Material.005
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.025
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.026
+		WARNING: No materials have been assigned: 
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.027
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.028
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.029
+		processing begun of material:  Material.003
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.030
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.031
+		processing begun of material:  Material.002
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.032
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.033
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.034
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.035
+		processing begun of material:  Material.005
+		registered as also a user of material:  Material.005
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.036
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.037
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.038
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.039
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.040
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.041
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.042
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.043
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.044
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.045
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.046
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.047
+		processing begun of material:  Material.005
+		registered as also a user of material:  Material.005
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.048
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.049
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.050
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.051
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.052
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.053
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.054
+		processing begun of material:  Material.003
+		registered as also a user of material:  Material.003
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.055
+		processing begun of material:  Material.007
+		registered as also a user of material:  Material.007
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.056
+		processing begun of material:  Material.025
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.057
+		processing begun of material:  Material.007
+		registered as also a user of material:  Material.007
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.058
+		processing begun of material:  Material.007
+		registered as also a user of material:  Material.007
+		num positions      :  96
+		num normals        :  96
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.059
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  55
+		num normals        :  55
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.060
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.061
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.062
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.063
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.064
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.065
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.066
+		processing begun of material:  Material.009
+		registered as also a user of material:  Material.009
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.067
+		processing begun of material:  Material.006
+		registered as also a user of material:  Material.006
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.068
+		processing begun of material:  Material.016
+		registered as also a user of material:  Material.016
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.069
+		processing begun of material:  Material.016
+		registered as also a user of material:  Material.016
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.070
+		processing begun of material:  Material.016
+		registered as also a user of material:  Material.016
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.071
+		processing begun of material:  Material.016
+		registered as also a user of material:  Material.016
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Icosphere
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.001
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.002
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.003
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.004
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.005
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.006
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.007
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.008
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.009
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.010
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.011
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.012
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.013
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.014
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.015
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.016
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.017
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.018
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.019
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.020
+		processing begun of material:  Material.035
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.021
+		processing begun of material:  Material.035
+		registered as also a user of material:  Material.035
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.022
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.023
+		processing begun of material:  Material.035
+		registered as also a user of material:  Material.035
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.024
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.025
+		processing begun of material:  Material.012
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.026
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.027
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.028
+		processing begun of material:  Material.012
+		registered as also a user of material:  Material.012
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.031
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.033
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.035
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.036
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.037
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.040
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.041
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.044
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.045
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.046
+		processing begun of material:  Material.015
+		registered as also a user of material:  Material.015
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.047
+		processing begun of material:  Material.018
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.048
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.049
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.050
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.051
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.052
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.053
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.054
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.055
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.056
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.057
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.058
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.059
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.060
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.061
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.062
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.063
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.064
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.065
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.066
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.067
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.068
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.069
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.070
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.071
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.072
+		processing begun of material:  Material.014
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.073
+		processing begun of material:  Material.017
+		registered as also a user of material:  Material.017
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.074
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.075
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.076
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.077
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.078
+		processing begun of material:  Material.010
+		registered as also a user of material:  Material.010
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.079
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.080
+		processing begun of material:  Material.011
+		registered as also a user of material:  Material.011
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  240
+	processing begun of mesh:  Icosphere.081
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0

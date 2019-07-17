@@ -1,0 +1,108 @@
+Exporter version: 6.1.1, Blender version: 2.80 (sub 74)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\laragon\www\vue3d\public\3d\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  sol_et_iles.002
+		processing begun of material:  Material.002
+			processing texture base_texture
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1773
+		num normals        :  1773
+		num tangents       :  0
+		num uvs            :  3546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2196
+	processing begun of mesh:  Grues.002
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  268
+		num normals        :  268
+		num tangents       :  0
+		num uvs            :  536
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  324
+	processing begun of mesh:  buildings.002
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  781
+		num normals        :  781
+		num tangents       :  0
+		num uvs            :  1562
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  882
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  446
+		num normals        :  446
+		num tangents       :  0
+		num uvs            :  892
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  492
+	processing begun of mesh:  black_building.002
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  963
+		num normals        :  963
+		num tangents       :  0
+		num uvs            :  1926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1110
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  757
+		num normals        :  757
+		num tangents       :  0
+		num uvs            :  1514
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  858
+	processing begun of mesh:  entrepot.002
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  494
+		num normals        :  494
+		num tangents       :  0
+		num uvs            :  988
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  sapins.002
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  52032
+		num normals        :  52032
+		num tangents       :  0
+		num uvs            :  104064
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  52224
+	processing begun of mesh:  port.002
+		processing begun of material:  Material.002
+		registered as also a user of material:  Material.002
+		num positions      :  2159
+		num normals        :  2159
+		num tangents       :  0
+		num uvs            :  4318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3228
+========= Writing of JSON file started =========
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.6289 secs
