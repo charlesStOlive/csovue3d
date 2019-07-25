@@ -53,6 +53,9 @@ export default {
       hemispheric_light: null
     };
   },
+  mounted() {
+      this.$store.dispatch('user/getSettings');
+  },
 
   methods: {
     onScene(scene) {
@@ -152,7 +155,8 @@ export default {
     },
     onCompleteHemisphericLight(obj) {
       this.hemispheric_light.intensity = 0.2;
-    }
+    },
+    
   },
   watch: {
     myScene() {

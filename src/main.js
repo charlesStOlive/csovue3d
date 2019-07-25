@@ -4,7 +4,7 @@ import './plugins/vuetify'
 import './plugins/vue-babylon'
 import App from './App.vue'
 import router from './router'
-import store from './store'
+import store from './store/'
 import './registerServiceWorker'
 
 Vue.config.productionTip = false
